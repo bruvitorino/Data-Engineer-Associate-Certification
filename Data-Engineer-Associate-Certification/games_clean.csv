@@ -1,0 +1,6 @@
+index,game_id,game_type
+0,1,biking
+1,2,rowing
+2,3,dancing
+3,4,running
+999,-1,unknown
